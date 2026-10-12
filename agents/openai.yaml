@@ -1,0 +1,6 @@
+interface:
+  display_name: "TextSlicer"
+  short_description: "Slice PSD/PNG text art and pack Unity atlas JSON"
+  default_prompt: "Use $text-slicer to export fixed-name text slices and a Unity-ready atlas PNG/JSON from a PSD or PNG atlas."
+policy:
+  allow_implicit_invocation: true
